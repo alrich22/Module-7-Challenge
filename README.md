@@ -62,3 +62,4 @@ npm run test
 ## Questions
 
 Reach out to me at alyssarichards3@gmail.com with any questions! You can find me on GitHub through my username alrich22.
+Link to the repo on GitHub: https://github.com/alrich22/Module-7-Challenge
