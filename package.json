@@ -2,17 +2,24 @@
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^12.3.2"
-  },
-  "name": "module7",
+  }
+  "name": "Module-7-Challenge",
   "version": "1.0.0",
-  "description": "* [Description](#description)\r   * [Installation](#installation)\r   * [Usage](#usage)",
+  "description": "mod 7 challenge",
   "main": "index.js",
   "devDependencies": {},
   "module": "NodeNext",
   "moduleResolution": "NodeNext",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "Module-7-Challenge"
+  },
+  "author": "alrich22",
+  "license": "MIT"
 }
+
+
+
