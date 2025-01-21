@@ -2,7 +2,7 @@
   "dependencies": {
     "colors": "^1.4.0",
     "inquirer": "^12.3.2"
-  }
+  },
   "name": "Module-7-Challenge",
   "version": "1.0.0",
   "description": "mod 7 challenge",
