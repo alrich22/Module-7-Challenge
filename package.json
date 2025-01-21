@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^12.3.2"
+  },
+  "name": "module7",
+  "version": "1.0.0",
+  "description": "* [Description](#description)\r   * [Installation](#installation)\r   * [Usage](#usage)",
+  "main": "index.js",
+  "devDependencies": {},
+  "module": "NodeNext",
+  "moduleResolution": "NodeNext",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
